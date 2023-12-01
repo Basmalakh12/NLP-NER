@@ -10,15 +10,10 @@ Sentence: "The Queen of England, Elizabeth II, visited the United States last we
 
 NER would identify and classify:
 
-Person: Elizabeth II
-Title: Queen
-Location: England, United States
-Date: last week
-NER has various applications, including:
+Person: Elizabeth II 
+Title: Queen 
+Location: England, United States 
+Date: last week 
 
 
-Information extraction: Extracting structured data from text for further analysis.
-Question answering: Identifying relevant information to answer questions about text.
-Machine translation: Translating named entities accurately.
-Text summarization: Identifying key information for summaries.
-Sentiment analysis: Analyzing the sentiment of text based on entities.
+
